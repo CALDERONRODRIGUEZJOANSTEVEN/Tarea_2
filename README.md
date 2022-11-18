@@ -473,6 +473,8 @@ La corriente ahora es de 0.642 A, lo cual excede la capacidad del fusible**
 
 ## **4. VIDEO**
 
+https://youtu.be/ELd0QTUGk3I
+
 ## **5. CONCLUSIONES**
 
 He aprendido mucho respecto a la Ley de Ohm y potencia, es interesante el hecho de poco a poco irse dando cuenta de como se realizan los cálculos y eso poderlo observar mediante simuladores, logrando de esta forma trasladar lo terico a lo practico y aprender de una mejor manera los capitulos correspondientes.
