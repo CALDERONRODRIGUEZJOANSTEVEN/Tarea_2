@@ -13,6 +13,10 @@
 
 ## **2. MARCO TEÓRICO (RESUMEN)**
 
+![image](https://user-images.githubusercontent.com/116821398/202781210-52c260fc-74f2-408d-930f-b419adf6999b.png)
+
+
+
 ## **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 ## Capítulo 3
