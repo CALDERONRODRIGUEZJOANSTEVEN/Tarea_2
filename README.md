@@ -234,19 +234,19 @@ La corriente ahora es de 0.642 A, lo cual excede la capacidad del fusible**
 
 (a) V = 10 kV, I = 5 A
 
-**10000/5 = = 2 kΩ**
+**10000/5 = 2 kΩ**
 
 (b) V = 7 V, I = 2 mA
 
-**7/0.002 = 3.5 kΩ
+**7/0.002 = 3.5 kΩ**
 
 (c) V = 500 V, I = 250 mA
 
-**500/0.25 = = 2 kΩ
+**500/0.25 = 2 kΩ**
 
 (d) V = 50 V, I = 500 µA
 
-**50/0.0005 = = 100 kΩ 
+**50/0.0005 = 100 kΩ**
 
 (e) V = 1 kV, I = 1 mA
 
