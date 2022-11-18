@@ -6,6 +6,11 @@
 
 ## **1. OBJETIVOS**
 
++ Dominar lo referente a la ley de Ohm, a través de ejemplos prácticos y dinámicos.
++ Profundizar aún más en el tema de prefijos y transformaciones.
++ Conocer sobre la potencia, así mismo como sus respectivas unidades y equivalencias.
++ Saber calcular la eficiancia respecto a la potencia. 
+
 ## **2. MARCO TEÓRICO (RESUMEN)**
 
 ## **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
@@ -470,9 +475,12 @@ La corriente ahora es de 0.642 A, lo cual excede la capacidad del fusible**
 
 ## **5. CONCLUSIONES**
 
+He aprendido mucho respecto a la Ley de Ohm y potencia, es interesante el hecho de poco a poco irse dando cuenta de como se realizan los cálculos y eso poderlo observar mediante simuladores, logrando de esta forma trasladar lo terico a lo practico y aprender de una mejor manera los capitulos correspondientes.
+
 ## **6. BIBLIOGRAFÍA**
 
-
++ Floyd. (1994). Principles Electric Circuits. Macmillan Library Reference.
++ Floyd. (1991). Principles Electric Circuits. Macmillan Library Reference.
 
 
 
